@@ -1,0 +1,6 @@
+{
+  "name": "Skuter Suvenir Nomer",
+  "description": "Skuterlar uchun suvenir davlat raqamlarini yaratish, oldindan ko'rish va A4 formatida PDF yuklab olish xizmati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
